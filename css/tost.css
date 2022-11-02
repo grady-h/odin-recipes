@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(161, 136, 88);
+  color: rgb(107, 68, 19);
+  font-family: "Copperplate";
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", sans-serif;
+  font-size: 80px;
+}
